@@ -1,5 +1,5 @@
 import ChatWidget from "../components/ChatWidget";
-import SideBar from "../components/SideBar";
+import sideBar from "../components/sideBar";
 import TopBar from "../components/TopBar";
 import BreadCrumb from "../components/BreadCrumb";
 function HomePage() {
