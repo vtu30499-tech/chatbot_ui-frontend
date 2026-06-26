@@ -5,7 +5,7 @@ import BreadCrumb from "../components/BreadCrumb";
 function HomePage() {
   return (
     <div>
-      <SideBar/>
+      <sideBar/>
       <div
         style={{
           marginLeft:"60px" ,     
