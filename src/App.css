@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  font-family: Arial, sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.home-container {
+  min-height: 100vh;
+  text-align: center;
+  background-color: white;
+  padding-top: 40px;
+}
+
+.home-title {
+  font-size: 70px;
+  color: #111;
+  margin-bottom: 10px;
+}
+
+.home-subtitle {
+  font-size: 24px;
+  color: #555;
+  margin-bottom: 350px;
+}
+
+.workflow {
+  margin-top: 100px;
+}
+
+.workflow h2 {
+  font-size: 36px;
+  color: #0b0b0b;
+}
+
+.workflow p {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
