@@ -18,7 +18,7 @@ top:0,
 width:"60px",
 height:"100vh",
 
-background:"06131c",
+background:"#000000",
 
 display:"flex",
 flexDirection:"column",
