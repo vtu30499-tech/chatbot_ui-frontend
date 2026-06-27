@@ -1,10 +1,15 @@
+import menu from "../assets/menu.svg";
+import home from "../assets/home.svg";
+import logout from "../assets/logout.svg";
+
+
 function SideBar(){
 
 return(
 
 <div
-
-style={{
+    
+ style={{
 
 position:"fixed",
 left:0,
@@ -45,7 +50,7 @@ fontSize:"24px"
 
 >
 <img 
-src="/src/assets/menu.svg"
+src={menu}
 width="22"
 />
 </div>
@@ -78,7 +83,7 @@ fontSize:"18px"
 >
 
 <img 
-src="/src/assets/home.svg"
+src={home}
 width="64"
 />
 
@@ -110,7 +115,7 @@ marginBottom:"20px"
 
 <img
 
-src="/src/assets/logout.svg"
+src={logout}
 
 width="22"
 
@@ -123,11 +128,7 @@ height="22"
 
 
 </div>
-
-
 )
-
 }
-
 
 export default SideBar;

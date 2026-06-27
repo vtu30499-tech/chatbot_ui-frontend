@@ -1,3 +1,8 @@
+import profile from "../assets/profile.svg";
+import notification from "../assets/notification.svg";
+
+
+
 function TopBar(){
 
 return(
@@ -51,7 +56,7 @@ cursor:"pointer"
 }}
 >
 <img
-src="/src/assets/notification.svg"
+src={notification}
 width="20"
 />
 
@@ -70,7 +75,7 @@ justifyContent:"center"
 }}
 >
 <img
-src="/src/assets/profile.svg"
+src={profile}
 width="32"
 />
 </div>
