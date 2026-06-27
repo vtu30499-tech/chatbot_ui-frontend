@@ -34,7 +34,7 @@ fontWeight:"600",
 color:"#444"
 }}
 >
-AiWingBot
+AilWingBot
 </div>
 
 
