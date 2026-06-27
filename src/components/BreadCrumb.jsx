@@ -29,7 +29,11 @@ Home
 <span
 style={{
 margin:"0 10px",
-color:"#ccc"
+color:"#ccc",
+fontSize:"28px",
+verticalAlign:"middle",
+transform:"translateY(-3px)",
+lineheight:"1"
 }}
 >
 ›

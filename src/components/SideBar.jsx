@@ -72,8 +72,6 @@ transform:"translateY(3px)",
 
 background:"#06352f",
 
-borderLeft:"3px solid #00c896",
-
 color:"white",
 
 fontSize:"18px"
@@ -84,7 +82,7 @@ fontSize:"18px"
 
 <img 
 src={home}
-width="44"
+width="50"
 />
 
 </div>
