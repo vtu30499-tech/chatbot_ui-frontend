@@ -3,7 +3,7 @@ import home from "../assets/home.svg";
 import logout from "../assets/logout.svg";
 
 
-function SideBar(){
+function sideBar(){
 
 return(
 
