@@ -1,3 +1,5 @@
+import chat from "../assets/chat.svg";
+
 function ChatWidget({onClick}) {
 
 return (
@@ -24,7 +26,7 @@ boxShadow:"0 5px 20px rgba(0,0,0,0.25)"
 >
 
 <img
-src="/src/assets/chat.svg"
+src={chat}
 width="100"
 />
 

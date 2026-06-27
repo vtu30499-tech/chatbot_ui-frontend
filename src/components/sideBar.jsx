@@ -131,4 +131,4 @@ height="22"
 )
 }
 
-export default SideBar;
+export default sideBar;
