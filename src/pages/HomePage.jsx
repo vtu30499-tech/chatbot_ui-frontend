@@ -1,11 +1,11 @@
 import ChatWidget from "../components/ChatWidget";
-import sideBar from "../components/sideBar";
+import SideBar from "../components/SideBar";
 import TopBar from "../components/TopBar";
 import BreadCrumb from "../components/BreadCrumb";
 function HomePage() {
   return (
     <div>
-      <sideBar/>
+      <SideBar/>
       <div
         style={{
           marginLeft:"60px" ,     

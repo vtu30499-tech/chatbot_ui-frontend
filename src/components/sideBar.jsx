@@ -3,7 +3,7 @@ import home from "../assets/home.svg";
 import logout from "../assets/logout.svg";
 
 
-function sideBar(){
+function SideBar(){
 
 return(
 
@@ -131,4 +131,4 @@ height="22"
 )
 }
 
-export default sideBar;
+export default SideBar;
