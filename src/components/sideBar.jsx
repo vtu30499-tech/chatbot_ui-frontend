@@ -18,13 +18,13 @@ top:0,
 width:"60px",
 height:"100vh",
 
-background:"#06131c",
+background:"red",
 
 display:"flex",
 flexDirection:"column",
 
-zIndex:2000
-
+zIndex:9999,
+boxShadow:"2px 0 5px rgba(0,0,0,0.3)"
 }}
 
 >
@@ -84,7 +84,7 @@ fontSize:"18px"
 
 <img 
 src={home}
-width="64"
+width="44"
 />
 
 </div>
