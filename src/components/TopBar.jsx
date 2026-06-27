@@ -29,6 +29,7 @@ zIndex:1000
 
 <div
 style={{
+    font:"Genos",
 fontSize:"16px",
 fontWeight:"600",
 color:"#444"
