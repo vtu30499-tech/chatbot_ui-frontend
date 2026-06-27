@@ -18,12 +18,12 @@ top:0,
 width:"60px",
 height:"100vh",
 
-background:"red",
+background:"06131c",
 
 display:"flex",
 flexDirection:"column",
 
-zIndex:9999,
+zIndex:2000,
 boxShadow:"2px 0 5px rgba(0,0,0,0.3)"
 }}
 
